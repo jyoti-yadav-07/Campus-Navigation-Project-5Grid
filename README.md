@@ -142,7 +142,7 @@ This project is useful for:
 * Demonstrating pathfinding using RL
 * Studying convergence and performance differences
 
-#9. Requirements
+# 9. Requirements
 * Python 3.8 or higher
 * numpy
 * matplotlib
