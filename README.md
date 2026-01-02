@@ -1,4 +1,4 @@
-# Campus Navigation Project
+# Campus Navigation Project 5*5 Grid
 
 This project implements a 5×5 campus navigation environment where an agent must move from the Hostel (Start) to the Library (Goal) while avoiding obstacles. Four reinforcement learning algorithms are used to learn optimal paths:
 
